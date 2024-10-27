@@ -1,0 +1,27 @@
+body {
+    background-color: #090c0e;
+    color: white;
+}
+
+button {
+    background-color: #2c3038;
+    border: 1px solid #525f69;
+    border-radius: 5px;
+
+    padding: 5px 10px;
+
+    font-weight: 500;
+    font-size: 16px;
+
+    color: white;
+}
+
+button:hover {
+    background-color: #393d43;
+}
+
+/* #0098ff */
+
+h1 {
+    font-family: sans-serif;
+}
