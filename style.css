@@ -1,10 +1,10 @@
 body {
-    background-color: #090c0e;
-    color: white;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 button {
-    background-color: #262a31;
+    background-color: #e5e6e8;
     border: 1px solid #525f69;
     border-radius: 5px;
 
@@ -17,7 +17,7 @@ button {
 }
 
 button:hover {
-    background-color: #393d43;
+    background-color: #e1edff;
 }
 
 /* #0098ff */
