@@ -9,3 +9,7 @@ function button_color_2() {
 function button_color_3() {
     document.getElementById('text').style.color = 'green';
 }
+
+function button_color_4() {
+    document.getElementById('text').style.color = 'antiquewhite';
+}
